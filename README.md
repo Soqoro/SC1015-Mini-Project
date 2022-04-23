@@ -37,6 +37,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 <pre><code>- Plotted the distribution of all variables using a boxplot, histogram and violinplot for all 20 variables
 - Scatterplot of all predictor variables against Life Expectancy
 - Ended off by plotting a Heatmap to show the correlation of all variables
+- Generate Data-driven insights
 </code></pre>
 
 **3. SKLearn Multi-Variate Linear Regression** <br>
