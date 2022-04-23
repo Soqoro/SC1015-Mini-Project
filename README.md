@@ -71,7 +71,7 @@ From our 3 models, Random Forest regression has the lowest MSE of 3.30.
 | Random Forest Regression with Cross Validation  | 3.30  |
 | Multi-Variate Regression with TensorFlow | 6.45 |
 
-Random Forest Regression maybe more effective due to the <b>size of the dataset</b>. For Deep Networks, <b>a large dataset</b> would be make the model <b>more accurate</b>. However, this dataset only has 2578 rows of data, further split into a 80-20 train-test split. Hence Random Forest may have performed better than the Deep Learning Model due to this reason.
+Random Forest Regression maybe more effective due to the <b>size of the dataset</b>. For Deep Networks, <b>a large dataset</b> would make the model <b>more accurate</b>. However, this dataset only has 2578 rows of data, further split into a 80-20 train-test split. Hence Random Forest may have performed better than the Deep Learning Model due to this reason.
 
 Furthermore, the Deep Learning Model used a <b>non-linear regression model</b>, and it performed better than the <b>linear regression model</b> from SKLearn, suggesting that the relation between X variables and Life Expectancy are <b>not linear</b> to begin with.
 
