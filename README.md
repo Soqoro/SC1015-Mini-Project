@@ -92,7 +92,7 @@ Hence some of our recommendations for singapore are to invest more funds to subs
 
 # 📚 New Content Learnt
 * Deep Learning using TensorFlow and Keras library
-* Random Forest Regression
+* Random Forest Regression and determining best number of estimators
 * Various ways to prevent the issue of overfitting (Cross Validation and EarlyStopping in Keras Callbacks)
 * Feature Importance using Random Forest
 * Git and Github Usage
